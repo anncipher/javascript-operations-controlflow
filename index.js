@@ -33,4 +33,4 @@ const nearestPowerofTwo = num => {
     };
     return base;
 };
-console.log('The number ' + nearestPowerofTwo(num) + ' ' + 'is the power of 2 nearest to 60');
+console.log('"' + 'The number ' + nearestPowerofTwo(num) + ' ' + 'is the power of 2 nearest to 60.' + '"');
